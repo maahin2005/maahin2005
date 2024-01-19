@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mahin, from Ahmedabad</h2> 
+<h2 align="center">Hi 👋! I'm Mahin, from Ahmedabad</h2> 
 
 
 
