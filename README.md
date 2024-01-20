@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/mahin-malek-371751286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mahin-portfolio-final.vercel.app/" target="_blank">
+  <a href="https://mahin.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
 </p>
