@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maahin2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maahin2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin2005&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
