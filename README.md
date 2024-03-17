@@ -15,25 +15,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maahin2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin2005&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
-<div align="center" style="margin-top: 50px;">
+<div align="center" style="margin-top: 50">
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=maahin2005&theme=midnight-purple' alt='streaks'/>
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-###
-
+<div>
 <h2 align="center">About Me</h2>
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="center">
   I am a passionate Front-End Developer with a focus on creating engaging and user-friendly web experiences. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
 </p>
+  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
+</div>
 
-<h2 align="center">Skills</h2>
+###
+
+
+<h1 align="center">Skills</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
