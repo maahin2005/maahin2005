@@ -8,7 +8,17 @@
 
 <h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/maahin2005/count.svg" height="50" alt="Profile Views"  />
 
+
+<h2 align="center">About Me</h2>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+ Hello! My name is Mahin Malek & I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
+</p>
+  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
 </div>
+
+##
+##
 
 <div align="center">
 
@@ -19,20 +29,10 @@
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=maahin2005&theme=midnight-purple' alt='streaks'/>
 </div>
 
-###
-<div>
-<h2 align="center">About Me</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="center">
-  I am a passionate Front-End Developer with a focus on creating engaging and user-friendly web experiences. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
-</p>
-  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
-</div>
-
-###
+##
 
 
-<h1 align="center">Skills</h1>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
